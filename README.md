@@ -1,2 +1,2 @@
-#面向分布式训练的消息分发系统Message-Distribution-System-for-Distributed-Training-Design-and-Implementation
-这是一个本科的毕业设计项目。系统使用QT建立了跨平台计的通信节点，满足了跨平台、跨集群的场景的消息分发需求。内部包含了一套分层联邦学习的训练架构。包含中心服务器、边缘服务器以及客户端三种节点。同时在不同节点之间使用QT建立一个高效的消息分发系统，中心服务器与边缘服务器之间使用了Socket进行沟通，边缘服务器与客户端之间使用了MQTT进行沟通。
+#Message-Distribution-System-for-Distributed-Training-Design-and-Implementation
+这是一个本科的毕业设计项目，課題名字是 面向分布式训练的消息分发系统。系统使用QT建立了跨平台计的通信节点，满足了跨平台、跨集群的场景的消息分发需求。内部包含了一套分层联邦学习的训练架构。包含中心服务器、边缘服务器以及客户端三种节点。同时在不同节点之间使用QT建立一个高效的消息分发系统，中心服务器与边缘服务器之间使用了Socket进行沟通，边缘服务器与客户端之间使用了MQTT进行沟通。
